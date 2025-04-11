@@ -65,5 +65,4 @@ Bearer your-token-here
 
 ## License
 
-This integration is based on: https://github.com/rohitaryal/imageFX-api  
 MIT License.
